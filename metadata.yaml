@@ -1,0 +1,33 @@
+_repo: O-odkryciach-i-wynalazkach--13-Odczyt-popularny-wypowiedziany-dnia-23-marca-1873-r._30407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prus, Bolesław
+    aliases:
+    - Prus, Boleslaw
+    - Głowacki, Aleksander
+    - Glowacki, Aleksander
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '25958'
+    url: http://www.gutenberg.org/2009/agents/25958
+    wikipedia: http://en.wikipedia.org/wiki/Boles%C5%82aw_Prus
+description: ''
+gutenberg_issued: '2009-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30407'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+- !lcsh 'Discoveries in science'
+title: "O odkryciach i wynalazkach\r\nOdczyt popularny wypowiedziany dnia 23 marca\
+  \ 1873 r."
+url: http://www.gutenberg.org/ebooks/30407
